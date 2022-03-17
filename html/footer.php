@@ -1,0 +1,1 @@
+<p><small>Please watch responsibly :-)</small></p>

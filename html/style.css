@@ -1,0 +1,23 @@
+.movie_details, .theatre_details{
+  font-size: 0.7em;
+  cursor: pointer;
+}
+
+#myPopupDiv{
+  background-color: white;
+}
+
+.showtime_list li{
+  margin:12px;
+}
+
+span.stars, span.stars>* {
+    display: inline-block;
+    background: url(stars.png) 0 -16px repeat-x;
+    width: 64px;
+    height: 16px;
+}
+span.stars>*{
+    max-width:64px;
+    background-position: 0 0;
+}

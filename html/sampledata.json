@@ -1,0 +1,3172 @@
+[{
+  "tmsId": "MV008000700000",
+  "rootId": "12100750",
+  "subType": "Feature Film",
+  "title": "This Changes Everything",
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-20",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Documentary"],
+  "longDescription": "Filmmaker Avi Lewis examines the challenges of climate change and how environmental activists make a difference worldwide.",
+  "shortDescription": "The challenges of climate change and the environmental activists who make a difference worldwide.",
+  "directors": ["Avi Lewis"],
+  "officialUrl": "http://thefilm.thischangeseverything.org/about/",
+  "runTime": "PT01H29M",
+  "preferredImage": {
+    "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "11100",
+      "name": "The Loft at Harden & Huyse Cafe"
+    },
+    "dateTime": "2015-10-09T14:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "11100",
+      "name": "The Loft at Harden & Huyse Cafe"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV006744380000",
+  "rootId": "11299640",
+  "subType": "Feature Film",
+  "title": "Pan",
+  "releaseYear": 2015,
+  "releaseDate": "2015-07-17",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Fantasy", "Adventure", "Action"],
+  "longDescription": "Living a bleak existence at a London orphanage, 12-year-old Peter (Levi Miller) finds himself whisked away to the fantastical world of Neverland. Adventure awaits as he meets new friend James Hook (Garrett Hedlund) and the warrior Tiger Lily (Rooney Mara). They must band together to save Neverland from the ruthless pirate Blackbeard (Hugh Jackman). Along the way, the rebellious and mischievous boy discovers his true destiny, becoming the hero forever known as Peter Pan.",
+  "shortDescription": "Mischievous orphan Peter must save Neverland from the ruthless pirate Blackbeard (Hugh Jackman).",
+  "topCast": ["Hugh Jackman", "Garrett Hedlund", "Rooney Mara"],
+  "directors": ["Joe Wright"],
+  "officialUrl": "http://www.pan-movie.com/",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT01H51M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Pan (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11299640_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T16:30",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T21:30",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:30",
+    "quals": "Closed Caption & Descriptive Video|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T16:30",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T12:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T14:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T20:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T21:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:40",
+    "quals": "Closed Caption & Descriptive Video|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T15:45",
+    "quals": "Closed Caption & Descriptive Video|No Passes",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007318080000",
+  "rootId": "11591956",
+  "subType": "Feature Film",
+  "title": "Hotel Transylvania 2",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-25",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy", "Animated", "Fantasy"],
+  "longDescription": "Now that Dracula (Adam Sandler) has opened the Hotel Transylvania's doors to humans, things are changing for the better; however, Drac is secretly worried that his half-human grandson, Dennis, isn't showing his vampire side. So, while Mavis and Johnny are away, Drac enlists his friends to help him put the boy through a \"monster-in-training\" boot camp. But things really get batty when Drac's cantankerous, old-school dad (Mel Brooks) pays an unexpected visit.",
+  "shortDescription": "Dracula (Adam Sandler) puts his half-human grandson through a \"monster-in-training\" boot camp.",
+  "topCast": ["Adam Sandler", "Andy Samberg", "Selena Gomez"],
+  "directors": ["Genndy Tartakovsky"],
+  "officialUrl": "http://www.hoteltransylvania2.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT01H29M",
+  "animation": "Animated",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Hotel Transylvania 2 (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11591956_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T16:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T21:20",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "24",
+      "name": "Port Hope Drive-In"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:45",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T21:40",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T20:45",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T13:00",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T16:45",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T12:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:55",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T20:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T12:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T14:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:30",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T18:45",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T21:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T14:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T16:40",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T21:45",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "75",
+      "name": "Roxy Theatre"
+    },
+    "dateTime": "2015-10-09T13:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "75",
+      "name": "Roxy Theatre"
+    },
+    "dateTime": "2015-10-09T18:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "75",
+      "name": "Roxy Theatre"
+    },
+    "dateTime": "2015-10-09T20:30",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV006118770000",
+  "rootId": "10980706",
+  "subType": "Feature Film",
+  "title": "The Martian",
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-02",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Science fiction", "Adventure", "Drama"],
+  "longDescription": "When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission.",
+  "shortDescription": "Left behind by his crew, a stranded astronaut (Matt Damon) must find a way to survive on Mars.",
+  "topCast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
+  "directors": ["Ridley Scott"],
+  "officialUrl": "http://www.foxmovies.com/movies/the-martian",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Brief Nudity"],
+  "runTime": "PT02H22M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Martian (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p10980706_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "11022",
+      "name": "Rainbow Cinemas Cobourg"
+    },
+    "dateTime": "2015-10-09T21:35",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T15:20",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:25",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:25",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T21:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T15:25",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "75",
+      "name": "Roxy Theatre"
+    },
+    "dateTime": "2015-10-09T13:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "75",
+      "name": "Roxy Theatre"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "75",
+      "name": "Roxy Theatre"
+    },
+    "dateTime": "2015-10-09T21:40",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007435740000",
+  "rootId": "11659455",
+  "subType": "Feature Film",
+  "title": "Maze Runner: The Scorch Trials",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-18",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Adventure", "Science fiction", "Action", "Thriller"],
+  "longDescription": "Transported to a remote fortified outpost, Thomas and his fellow teenage Gladers find themselves in trouble after uncovering a diabolical plot from the mysterious and powerful organization WCKD. With help from a new ally, the Gladers stage a daring escape into the Scorch, a desolate landscape filled with dangerous obstacles and crawling with the virus-infected Cranks. The Gladers only hope may be to find the Right Hand, a group of resistance fighters who can help them battle WCKD.",
+  "shortDescription": "Thomas (Dylan O'Brien) and his fellow teenage Gladers face the dangerous obstacles of the Scorch.",
+  "topCast": ["Dylan O'Brien", "Kaya Scodelario", "Giancarlo Esposito"],
+  "directors": ["Wes Ball"],
+  "officialUrl": "http://mazerunnermovies.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT02H11M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Maze Runner: The Scorch Trials (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11659455_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "24",
+      "name": "Port Hope Drive-In"
+    },
+    "dateTime": "2015-10-09T21:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T18:55",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T21:55",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T22:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T12:45",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T15:45",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T18:50",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T21:55",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T14:55",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T21:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T22:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T13:55",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:50",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:40",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T22:30",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T12:10",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T15:20",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T18:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T21:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007662430000",
+  "rootId": "10980706",
+  "subType": "Feature Film",
+  "title": "The Martian 3D",
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-02",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Science fiction", "Adventure", "Drama"],
+  "longDescription": "When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission.",
+  "shortDescription": "Left behind by his crew, a stranded astronaut (Matt Damon) must find a way to survive on Mars.",
+  "topCast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
+  "directors": ["Ridley Scott"],
+  "officialUrl": "http://www.foxmovies.com/movies/the-martian",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Brief Nudity"],
+  "runTime": "PT02H22M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Martian 3D (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p10980706_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T15:55",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:55",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T20:15",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:20",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T21:40",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T12:45",
+    "quals": "UltraAVX",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T13:20",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T16:00",
+    "quals": "UltraAVX",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "quals": "UltraAVX",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T21:50",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T22:20",
+    "quals": "UltraAVX",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T14:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:55",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T20:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T18:40",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T21:50",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T12:10",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T12:45",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:00",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T18:40",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:15",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T21:50",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T22:25",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T12:20",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T15:35",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T18:45",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T21:55",
+    "quals": "CC/DVS",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007260870000",
+  "rootId": "11550244",
+  "subType": "Feature Film",
+  "title": "The Intern",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-25",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy"],
+  "longDescription": "Starting a new job can be a difficult challenge, especially if you're already retired. Looking to get back into the game, 70-year-old widower Ben Whittaker (Robert De Niro) seizes the opportunity to become a senior intern at an online fashion site. Ben soon becomes popular with his younger co-workers, including Jules Ostin (Anne Hathaway), the boss and founder of the company. Whittaker's charm, wisdom and sense of humor help him develop a special bond and growing friendship with Jules.",
+  "shortDescription": "A 70-year-old intern (Robert De Niro) develops a special bond with his young boss (Anne Hathaway).",
+  "topCast": ["Robert De Niro", "Anne Hathaway", "Rene Russo"],
+  "directors": ["Nancy Meyers"],
+  "officialUrl": "http://www.theinternmovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations"],
+  "runTime": "PT02H01M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Intern (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11550244_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T18:45",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T21:35",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T12:55",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T16:00",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T18:45",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T21:35",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:05",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:20",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T14:05",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:55",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:20",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T19:20",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T13:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:20",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T12:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T16:30",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T19:20",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007241720000",
+  "rootId": "11539968",
+  "subType": "Feature Film",
+  "title": "Sicario",
+  "releaseYear": 2015,
+  "releaseDate": "2015-05-07",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Crime drama", "Action", "Thriller"],
+  "longDescription": "After rising through the ranks of her male-dominated profession, idealistic FBI agent Kate Macer (Emily Blunt) receives a top assignment. Recruited by mysterious government official Matt Graver (Josh Brolin), Kate joins a task force for the escalating war against drugs. Led by the intense and shadowy Alejandro (Benicio Del Toro), the team travels back-and-forth across the U.S.-Mexican border, using one cartel boss (Bernardo Saracino) to flush out a bigger one (Julio Cesar Cedillo).",
+  "shortDescription": "A task force travels across the U.S.-Mexican border, using one cartel boss to flush out another.",
+  "topCast": ["Emily Blunt", "Benicio Del Toro", "Josh Brolin"],
+  "directors": ["Denis Villeneuve"],
+  "officialUrl": "http://www.lionsgate.com/movies/sicario/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "R"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Graphic Violence"],
+  "runTime": "PT02H01M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Sicario (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11539968_p_v5_ac.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:10",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:20",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T13:10",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T16:10",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:55",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T12:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T21:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T21:20",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T13:10",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:05",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T18:50",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T21:35",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T13:10",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T16:00",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T18:50",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T21:50",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007533500000",
+  "rootId": "11729985",
+  "subType": "Feature Film",
+  "title": "Black Mass",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-04",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Crime drama", "Biography"],
+  "longDescription": "While his brother Bill (Benedict Cumberbatch) remains a powerful leader in the Massachusetts Senate, Irish hoodlum James \"Whitey\" Bulger (Johnny Depp) continues to pursue a life of crime in 1970s Boston. Approached by FBI agent John Connolly (Joel Edgerton), the lawman convinces Whitey to help the agency fight the Italian mob. As their unholy alliance spirals out of control, Bulger increases his power and evades capture to become one of the most dangerous gangsters in U.S. history.",
+  "shortDescription": "Irish gangster Whitey Bulger forms an alliance with FBI agent John Connolly in 1970s Boston.",
+  "topCast": ["Johnny Depp", "Joel Edgerton", "Benedict Cumberbatch"],
+  "directors": ["Scott Cooper"],
+  "officialUrl": "http://www.blackmass.net/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "R"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Graphic Violence"],
+  "runTime": "PT02H02M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Black Mass (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11729985_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:35",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T18:50",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T21:45",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T12:50",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T15:40",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T18:40",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T21:40",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:20",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T22:10",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T21:55",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007650620000",
+  "rootId": "11819840",
+  "subType": "Feature Film",
+  "title": "The Walk 3D",
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-09",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Adventure", "Biography", "Drama"],
+  "longDescription": "As a boy, Philippe Petit dreams of performing daring feats for dazzled crowds. As an adult (Joseph Gordon-Levitt), his life's ambition comes true when he becomes a high-wire artist who stares death in the face with every step. Under the guidance of mentor Papa Rudy, the French daredevil devises a plan to walk on a tightrope attached to the north and south towers of the World Trade Center. With help from his team and against all odds, Petit attempts the seemingly impossible stunt on Aug. 7, 1974.",
+  "shortDescription": "In 1974, high-wire artist Philippe Petit attempts to walk on a tightrope between the twin towers.",
+  "topCast": ["Joseph Gordon-Levitt", "Ben Kingsley", "Charlotte Le Bon"],
+  "directors": ["Robert Zemeckis"],
+  "officialUrl": "http://www.sonypictures.com/movies/thewalk/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity"],
+  "runTime": "PT02H04M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Walk (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11819840_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:40",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:35",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:25",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:25",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T21:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T13:40",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:35",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T22:25",
+    "quals": "CC/DVS",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV008078300000",
+  "rootId": "12167409",
+  "subType": "Feature Film",
+  "title": "Hyena Road",
+  "releaseYear": 2015,
+  "releaseDate": "2015",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Drama", "War"],
+  "shortDescription": "Three men from three worlds fight in three wars.",
+  "longDescription": "Three men from three worlds fight in three wars.",
+  "topCast": ["Rossif Sutherland", "Paul Gross", "Clark Johnson"],
+  "directors": ["Paul Gross"],
+  "runTime": "PT02H00M",
+  "preferredImage": {
+    "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T16:50",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:45",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:30",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T14:00",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T16:50",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T19:40",
+    "quals": "No Passes|Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T22:30",
+    "quals": "No Passes|Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T21:55",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T13:20",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:10",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:00",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T21:50",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T13:20",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T16:10",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T19:10",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T22:00",
+    "quals": "Closed Captioned|No Passes",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV006744390000",
+  "rootId": "11299640",
+  "subType": "Feature Film",
+  "title": "Pan 3D",
+  "releaseYear": 2015,
+  "releaseDate": "2015-07-17",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Fantasy", "Adventure", "Action"],
+  "longDescription": "Living a bleak existence at a London orphanage, 12-year-old Peter (Levi Miller) finds himself whisked away to the fantastical world of Neverland. Adventure awaits as he meets new friend James Hook (Garrett Hedlund) and the warrior Tiger Lily (Rooney Mara). They must band together to save Neverland from the ruthless pirate Blackbeard (Hugh Jackman). Along the way, the rebellious and mischievous boy discovers his true destiny, becoming the hero forever known as Peter Pan.",
+  "shortDescription": "Mischievous orphan Peter must save Neverland from the ruthless pirate Blackbeard (Hugh Jackman).",
+  "topCast": ["Hugh Jackman", "Garrett Hedlund", "Rooney Mara"],
+  "directors": ["Joe Wright"],
+  "officialUrl": "http://www.pan-movie.com/",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT01H51M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Pan (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11299640_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:20",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T22:10",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:15",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T21:55",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T13:40",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T19:20",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T22:10",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:20",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T18:50",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T21:40",
+    "quals": "No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T13:50",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:20",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T22:05",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T12:45",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T18:40",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T21:40",
+    "quals": "CC/DVS|No Passes",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV006404810000",
+  "rootId": "11132479",
+  "subType": "Feature Film",
+  "title": "Everest",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-25",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Drama", "Adventure", "Thriller"],
+  "longDescription": "On the morning of May 10, 1996, climbers (Jason Clarke, Josh Brolin) from two expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.",
+  "shortDescription": "Climbers from two expeditions fight for survival during a fierce blizzard on Mount Everest.",
+  "topCast": ["Jason Clarke", "Josh Brolin", "John Hawkes"],
+  "directors": ["Baltasar KormÃ¡kur"],
+  "officialUrl": "http://www.everestmovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT02H01M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Everest (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11132479_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "7909",
+      "name": "Galaxy Cinemas Peterborough"
+    },
+    "dateTime": "2015-10-09T19:25",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T19:35",
+    "quals": "Closed Caption & Descriptive Video",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T22:25",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:25",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:25",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:20",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007435960000",
+  "rootId": "11659618",
+  "subType": "Feature Film",
+  "title": "The Visit",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-11",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Thriller", "Dark comedy", "Horror"],
+  "longDescription": "Becca (Olivia DeJonge) and younger brother Tyler (Ed Oxenbould) say goodbye to their mother as they board a train and head deep into Pennsylvania farm country to meet their maternal grandparents for the first time. Welcomed by Nana (Deanna Dunagan) and Pop Pop (Peter McRobbie), all seems well until the siblings start to notice increasingly strange behavior from the seemingly charming couple. Once the children discover a shocking secret, they begin to wonder if they'll ever make it home.",
+  "shortDescription": "Two siblings discover a shocking secret about their grandparents while staying at their farm.",
+  "topCast": ["Olivia DeJonge", "Ed Oxenbould", "Deanna Dunagan"],
+  "directors": ["M. Night Shyamalan"],
+  "officialUrl": "http://www.stayinyourroom.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity", "Violence"],
+  "runTime": "PT01H34M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Visit (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11659618_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "8063",
+      "name": "Cineplex Odeon Clarington Place Cinemas"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:05",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:25",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T20:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:35",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007750170000",
+  "rootId": "11591956",
+  "subType": "Feature Film",
+  "title": "Hotel Transylvania 2 3D",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-25",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy", "Fantasy", "Animated"],
+  "longDescription": "Now that Dracula (Adam Sandler) has opened the Hotel Transylvania's doors to humans, things are changing for the better; however, Drac is secretly worried that his half-human grandson, Dennis, isn't showing his vampire side. So, while Mavis and Johnny are away, Drac enlists his friends to help him put the boy through a \"monster-in-training\" boot camp. But things really get batty when Drac's cantankerous, old-school dad (Mel Brooks) pays an unexpected visit.",
+  "shortDescription": "Dracula (Adam Sandler) puts his half-human grandson through a \"monster-in-training\" boot camp.",
+  "topCast": ["Adam Sandler", "Andy Samberg", "Selena Gomez"],
+  "directors": ["Genndy Tartakovsky"],
+  "officialUrl": "http://www.hoteltransylvania2.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT01H29M",
+  "animation": "Animated",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Hotel Transylvania 2 (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11591956_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T14:50",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T17:20",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T19:50",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5777",
+      "name": "Cineplex Odeon Oshawa Cinemas"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "quals": "Closed Captioned",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T14:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:05",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T21:25",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T19:05",
+    "quals": "CC/DVS",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T21:25",
+    "quals": "CC/DVS",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007445230000",
+  "rootId": "11667168",
+  "subType": "Feature Film",
+  "title": "He Named Me Malala",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-04",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Documentary"],
+  "longDescription": "After the Taliban tries to kill her for speaking out on behalf of girls' education, Pakistani teenager Malala Yousafzai emerges as a leading advocate for children's rights and the youngest-ever Nobel Peace Prize Laureate.",
+  "shortDescription": "The story of educational activist and Nobel Peace Prize Laureate Malala Yousafzai.",
+  "directors": ["Davis Guggenheim"],
+  "officialUrl": "http://www.foxsearchlight.com/henamedmemalala/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT01H27M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "He Named Me Malala (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11667168_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T12:55",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007650630000",
+  "rootId": "11819840",
+  "subType": "Feature Film",
+  "title": "The Walk: An IMAX 3D Experience",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-30",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Adventure", "Biography", "Drama"],
+  "longDescription": "As a boy, Philippe Petit dreams of performing daring feats for dazzled crowds. As an adult (Joseph Gordon-Levitt), his life's ambition comes true when he becomes a high-wire artist who stares death in the face with every step. Under the guidance of mentor Papa Rudy, the French daredevil devises a plan to walk on a tightrope attached to the north and south towers of the World Trade Center. With help from his team and against all odds, Petit attempts the seemingly impossible stunt on Aug. 7, 1974.",
+  "shortDescription": "In 1974, high-wire artist Philippe Petit attempts to walk on a tightrope between the twin towers.",
+  "topCast": ["Joseph Gordon-Levitt", "Ben Kingsley", "Charlotte Le Bon"],
+  "directors": ["Robert Zemeckis"],
+  "officialUrl": "http://www.sonypictures.com/movies/thewalk/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity"],
+  "runTime": "PT02H04M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Walk (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11819840_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T10:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T13:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:30",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV006134340000",
+  "rootId": "10989210",
+  "subType": "Feature Film",
+  "title": "Mission: Impossible Rogue Nation",
+  "releaseYear": 2015,
+  "releaseDate": "2015-07-31",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Action", "Adventure", "Thriller"],
+  "longDescription": "With the IMF now disbanded and Ethan Hunt (Tom Cruise) out in the cold, a new threat -- called the Syndicate -- soon emerges. The Syndicate is a network of highly skilled operatives who are dedicated to establishing a new world order via an escalating series of terrorist attacks. Faced with what may be the most impossible mission yet, Ethan gathers his team and joins forces with Ilsa Faust (Rebecca Ferguson), a disavowed British agent who may or may not be a member of this deadly rogue nation.",
+  "shortDescription": "Ethan Hunt and his team square off against an organization bent on creating a new world order.",
+  "topCast": ["Tom Cruise", "Jeremy Renner", "Simon Pegg"],
+  "directors": ["Christopher McQuarrie"],
+  "officialUrl": "http://www.missionimpossible.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Situations", "Brief Nudity", "Violence"],
+  "runTime": "PT02H11M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Mission: Impossible Rogue Nation -- The IMAX Experience (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p10989210_p_v5_ac.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T11:40",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007650600000",
+  "rootId": "11819840",
+  "subType": "Feature Film",
+  "title": "The Walk",
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-09",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Adventure", "Biography", "Drama"],
+  "longDescription": "As a boy, Philippe Petit dreams of performing daring feats for dazzled crowds. As an adult (Joseph Gordon-Levitt), his life's ambition comes true when he becomes a high-wire artist who stares death in the face with every step. Under the guidance of mentor Papa Rudy, the French daredevil devises a plan to walk on a tightrope attached to the north and south towers of the World Trade Center. With help from his team and against all odds, Petit attempts the seemingly impossible stunt on Aug. 7, 1974.",
+  "shortDescription": "In 1974, high-wire artist Philippe Petit attempts to walk on a tightrope between the twin towers.",
+  "topCast": ["Joseph Gordon-Levitt", "Ben Kingsley", "Charlotte Le Bon"],
+  "directors": ["Robert Zemeckis"],
+  "officialUrl": "http://www.sonypictures.com/movies/thewalk/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity"],
+  "runTime": "PT02H04M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Walk (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11819840_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T12:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T18:30",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007445780000",
+  "rootId": "11667784",
+  "subType": "Feature Film",
+  "title": "War Room",
+  "releaseYear": 2015,
+  "releaseDate": "2015-08-28",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Drama"],
+  "longDescription": "With great jobs, a beautiful daughter (Alena Pitts) and a dream house, the Jordans seem to have it all. Appearances can be deceiving, however, as husband Tony (T.C. Stallings) flirts with temptation and wife Elizabeth (Priscilla Shirer) becomes increasingly bitter, crumbling under the strain of a failing marriage. Their lives take an unexpected turn for the better when Elizabeth meets her newest client, Miss Clara (Karen Abercrombie), who encourages the couple to find happiness through prayer.",
+  "shortDescription": "Encouraged by her newest client, a woman turns to prayer to save her failing marriage.",
+  "topCast": ["Priscilla Shirer", "T.C. Stallings", "Karen Abercrombie"],
+  "directors": ["Alex Kendrick"],
+  "officialUrl": "http://warroomthemovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT02H00M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "War Room (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11667784_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T14:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T16:50",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T19:40",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T14:00",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T16:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T19:35",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8801",
+      "name": "Cineplex Odeon Ajax"
+    },
+    "dateTime": "2015-10-09T22:15",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV008068120000",
+  "rootId": "12158160",
+  "subType": "Feature Film",
+  "title": "People Hold On",
+  "releaseYear": 2015,
+  "releaseDate": "2015",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy drama", "Romance"],
+  "shortDescription": "An extended family of friends faces the approach of adulthood together.",
+  "longDescription": "An extended family of friends faces the approach of adulthood together.",
+  "topCast": ["Katie Boland", "Paula Brancati", "Mazin Elsadig"],
+  "directors": ["Michael Seater"],
+  "runTime": "PT01H38M",
+  "preferredImage": {
+    "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T15:10",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T17:45",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T20:15",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "10615",
+      "name": "Landmark Cinemas 24 IMAX Whitby"
+    },
+    "dateTime": "2015-10-09T22:40",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV007662300000",
+  "rootId": "11132479",
+  "subType": "Feature Film",
+  "title": "Everest 3D",
+  "releaseYear": 2015,
+  "releaseDate": "2015-09-25",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Thriller", "Adventure", "Drama"],
+  "longDescription": "On the morning of May 10, 1996, climbers (Jason Clarke, Josh Brolin) from two expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.",
+  "shortDescription": "Climbers from two expeditions fight for survival during a fierce blizzard on Mount Everest.",
+  "topCast": ["Jason Clarke", "Josh Brolin", "John Hawkes"],
+  "directors": ["Baltasar KormÃ¡kur"],
+  "officialUrl": "http://www.everestmovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT02H01M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Everest (2015)",
+      "lang": "en"
+    },
+    "uri": "assets/p11132479_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "5672",
+      "name": "Galaxy Cinemas Belleville"
+    },
+    "dateTime": "2015-10-09T19:30",
+    "quals": "CC/DVS",
+    "barg": false
+  }]
+}, {
+  "tmsId": "MV008055510000",
+  "rootId": "12149527",
+  "subType": "Feature Film",
+  "title": "Puli",
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-01",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Fantasy", "Adventure"],
+  "shortDescription": "A man travels back in time to a fantasy kingdom to save a queen from a tyrant.",
+  "longDescription": "A man travels back in time to a fantasy kingdom to save a queen from a tyrant.",
+  "topCast": ["Vijay", "Sridevi", "Sudeep"],
+  "directors": ["Chimbudeven"],
+  "runTime": "PT01H35M",
+  "preferredImage": {
+    "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T13:00",
+    "quals": "Tamil w/e.s.t.",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T14:45",
+    "quals": "Tamil w/e.s.t.",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T18:25",
+    "quals": "Tamil w/e.s.t.",
+    "barg": false
+  }, {
+    "theatre": {
+      "id": "8312",
+      "name": "Famous Players Pickering 8 Cinemas"
+    },
+    "dateTime": "2015-10-09T21:30",
+    "quals": "Tamil w/e.s.t.",
+    "barg": false
+  }]
+}]
