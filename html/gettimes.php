@@ -6,6 +6,12 @@ http://developer.tmsapi.com/io-docs - API Movie Data fetcher
  error_reporting(E_ERROR);
  ini_set('display_errors', 1);
 
+//  CACHEING
+require("vendor/autoload.php");
+use Phpfastcache\Helper\Psr16Adapter;
+$defaultDriver = 'Files';
+$Psr16Adapter = new Psr16Adapter($defaultDriver);
+
 // $apikey = "tbuae4zpk4byd8c5un4d7acm";
 $apikey = "5m4jsfc3ermyus7yfafghdvh";	//new api key for drhmedia account
 $response = array("error"=>false, "data"=>null);
@@ -31,21 +37,38 @@ if(isset($_GET['lat']) && isset($_GET['lng'])){
 if($response['error'] == false){
 	$showtimes = array();
 	$url = "https://data.tmsapi.com/v1.1/movies/showings?startDate=$date&$loc&radius=$radius&imageSize=Md&api_key=$apikey";
+	$url_key = urlencode($url);
 
-	require_once("phpfastcache/phpfastcache.php");
-	phpFastCache::setup("storage","auto");
-	$cache = phpFastCache();
+	// die($url_key);
 
-	$response['data'] = $cache->get($url);
-	if($response['data'] == null || isset($_GET['refresh'])) {
+	if(!$Psr16Adapter->has($url_key)){
 		$response['cached']=false;
 		getData();	//call the recusive search function
 		$response['data'] = $showtimes;
 	    // Write products to Cache in 10 minutes with same keyword
-	    $cache->set($url, $showtimes , 3600);
+	    $Psr16Adapter->set($url_key, $showtimes , 3600);
+
 	}else{
+		// Getter action
+		$response['data'] = $Psr16Adapter->get($url_key);
 		$response['cached']=true;
 	}
+
+
+	// require_once("phpfastcache/phpfastcache.php");
+	// phpFastCache::setup("storage","auto");
+	// $cache = phpFastCache();
+
+	// $response['data'] = $cache->get($url);
+	// if($response['data'] == null || isset($_GET['refresh'])) {
+	// 	$response['cached']=false;
+	// 	getData();	//call the recusive search function
+	// 	$response['data'] = $showtimes;
+	//     // Write products to Cache in 10 minutes with same keyword
+	//     $cache->set($url, $showtimes , 3600);
+	// }else{
+	// 	$response['cached']=true;
+	// }
 }
 
 header('Content-Type: application/json');

@@ -1,4 +1,5 @@
 <?PHP
+    require("config.php");
     session_start();
     $loc = isset($_COOKIE['loc']) ? $_COOKIE['loc'] : '';
     $lat = isset($_COOKIE['lat']) ? $_COOKIE['lat'] : '';
